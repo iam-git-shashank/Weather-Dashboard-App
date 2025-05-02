@@ -31,13 +31,13 @@ Create a .env file and add your mapbox details to it.
 
 ## ScreenShots
 -Dashboard
-![Dashboard](https://github.com/iam-git-shashank/Weather-Route-App/blob/main/assets/screenshot-1.png)
+![Dashboard](https://github.com/iam-git-shashank/Weather-Dashboard-App/blob/main/assets/screenshot-1.png)
 
 -Weather
-![Dashboard](https://github.com/iam-git-shashank/Weather-Route-App/blob/main/assets/screeshot-2.png)
+![Dashboard](https://github.com/iam-git-shashank/Weather-Dashboard-App/blob/main/assets/screeshot-2.png)
 
 -Route Analysis
-![Dashboard](https://github.com/iam-git-shashank/Weather-Route-App/blob/main/assets/screenshot-3.png)
+![Dashboard](https://github.com/iam-git-shashank/Weather-Dashboard-App/blob/main/assets/screenshot-3.png)
 
 ## Installation
 
