@@ -47,7 +47,7 @@ To run the app locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/gitshasha/Weather-Route-App.git
+   git clone this.repo
    cd weatherApp
 2.**install packages and run**:
    ```bash
